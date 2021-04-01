@@ -1,0 +1,30 @@
+.films > img{
+    width: auto;
+    height: 400px;
+}
+#profile{
+    margin-top: 5%;
+}
+#skills{
+    border-left: 2px solid grey;
+}
+#jobs{
+    padding-left: 5%;
+}
+.progress{
+    margin-bottom: 1%;
+}
+#contactForm{
+    margin: 0 auto;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: 2px solid grey;
+}
+#filmImages{
+    margin: 0 auto;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: 2px solid grey;
+}
